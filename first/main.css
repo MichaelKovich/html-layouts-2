@@ -1,0 +1,81 @@
+body {
+  width: 98%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.navbar {
+  background-color: white;
+  height: 16vh;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.nav-square, .nav-square-two, .nav-square-three {
+  display: inline-block;
+  height: 16vh;
+  width: 32.2%;
+}
+
+.nav-square {
+  background-color: firebrick;
+  margin-right: 21px;
+  margin-left: 1px;
+}
+
+.nav-square-two {
+  background-color: #4A90E2;
+  margin-right: 21px;
+}
+
+.nav-square-three {
+  background-color: #4A4A4A;
+}
+
+.main-content {
+  background-color: white;
+  height: 28vh;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.secondary-content {
+  background-color: #4A90E2;
+  height: 28vh;
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.rectangle-again {
+  background-color: firebrick;
+  height: 28vh;
+  width: 35%;
+}
+
+.footer {
+  background-color: #4A90E2;
+  height: 17vh;
+  width: 100%;
+}
+
+.rectangle {
+  background-color: firebrick;
+  float: right;
+  height: 17vh;
+  width: 2%;
+}
+
+.square {
+  background-color: #4A4A4A;
+  float: right;
+  height: 17vh;
+  width: 10%;
+}
+
+.rectangle-two {
+  background-color: firebrick;
+  float: right;
+  height: 17vh;
+  width: 2%;
+}
